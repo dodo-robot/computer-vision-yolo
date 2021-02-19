@@ -1,5 +1,11 @@
 # YOLO3 
 
+non sono riuscito a caricare nella repo i pesi del modello
+
+dovete mettere un file chiamato 'yolov3.weights' contentente i pesi del modello 
+in questa cartella
+
+https://pjreddie.com/media/files/yolov3.weights
 
 ho messo yolo solo nella modalità 'get'
 
